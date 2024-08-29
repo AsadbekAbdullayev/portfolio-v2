@@ -1,4 +1,4 @@
-# meikopoulos.com
+# asadbek27.uz
 
 A personal website inspired by the design of [Brittany Chiang's website](https://brittanychiang.com).  
 ## Implementation 🛠️
