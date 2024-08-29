@@ -7,12 +7,12 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://meikopoulos.com"),
+  metadataBase: new URL("https://asadbek27.uz"),
   alternates: {
-    canonical: "https://meikopoulos.com",
+    canonical: "https://asadbek27.uz",
   },
   title: "Asadbek",
-  description: "Asadbek is a Front-End Software Engineer",
+  description: "Asadbek, Front-End Software Engineer",
   keywords:
     "Asadbek, Front-end Engineer, Project Leader, Web Development, Software Engineering",
   openGraph: {
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     type: "website",
     title: "Asadbek",
     description: "Asadbek is a Front-End Software Engineer",
-    url: "https://meikopoulos.com",
+    url: "https://asadbek27.uz",
     images: [
       {
         url: "./og-large-meik.jpg",
