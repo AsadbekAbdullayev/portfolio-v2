@@ -16,15 +16,14 @@ const jobPositions = [
     currentPosition: "Frontend developer",
     place: "IT INVESTMENT CENTER",
     previousPositions: [""],
-    description: `Created CI/CD pipelines using Docker and GitLab , automating build, test, and deployment stages. This automation improved
-development speed, reduced errors, and ensured consistent deployment across environments.
+    description: `
 • Led a team by using Jira, Asana, and Slack for efficient project management and communication. This approach enhanced
 collaboration, ensured projects stayed on schedule, and maintained a productive and engaged team environment.
 • Successfully reduced build file storage by 120% using Vite, leading to more efficient storage management and faster deployment
 times.
 `,
     skills: [
-      "Docker",
+    
       "Husky",
       "Jira",
       "Asana",
