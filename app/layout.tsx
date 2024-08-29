@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     url: "https://asadbek27.uz",
     images: [
       {
-        url: "./og-large-meik.jpg",
+        url: "./logo.png",
       },
     ],
   },
