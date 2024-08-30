@@ -15,8 +15,7 @@ export default function About() {
           Next.js. I have worked on various projects, including tech platforms,
           CRM systems, and e-commerce websites, focusing on building efficient,
           scalable, and visually appealing interfaces that enhance the user
-          experience. Main Fields: Information Systems, CRM , LMC ,ERP, Booking
-          System, Startups, E-commerce, Outsourcing.
+          experience.
         </p>
         {/* <p className="text-start  text-muted-foreground lg:px-6">
           In parallel, my path took an exciting turn into the Web3 space,
@@ -35,12 +34,15 @@ export default function About() {
           critical milestones, boasting a trading volume of millions USD and
           attracting over 4,000 monthly active users.
         </p>
-        <p className="text-start text-muted-foreground lg:px-6">
-          Outside of work, I&#39;m an avid reader of blockchain and cryptography
-          and enjoy my time outdoors. Looking forward, I aim to leverage my
-          frontend development and quality assurance expertise to contribute to
-          impactful tech ventures.
-        </p> */}
+        */}
+        <p className="text-start text-muted-foreground lg:px-6 mt-[15px]">
+          Main Fields: Information Systems, CRM , LMC ,ERP, Booking
+          System, Startups, E-commerce, Outsourcing.
+        </p> 
+         <p className="text-start text-muted-foreground lg:px-6 mt-[15px]">
+       If you are looking for a skilled Frontend Developer, you are at the right place! 
+Let's hop in a quick video call!
+        </p> 
       </div>
     </section>
   );
