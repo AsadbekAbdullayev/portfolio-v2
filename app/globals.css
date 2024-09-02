@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 @layer components {
   .mouse-aura {
     @apply fixed inset-0 pointer-events-none;
