@@ -1,8 +1,6 @@
 "use client";
-
 import { Mail } from "lucide-react";
 import { Button } from "./ui/button";
-
 export default function Contact() {
   return (
     <section id="contact" className="scroll-mt-16 lg:mt-16">
