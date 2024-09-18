@@ -15,24 +15,7 @@ export default function About() {
           scalable, and visually appealing interfaces that enhance the user
           experience.
         </p>
-        {/* <p className="text-start  text-muted-foreground lg:px-6">
-          In parallel, my path took an exciting turn into the Web3 space,
-          co-founding{" "}
-          <a
-            className="no-wrap text-primary dark:text-white"
-            href="https://swoop.exchange"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            Swoop Exchange
-          </a>{" "}
-          two years ago, in a mission to tackle the fragmentation of liquidity
-          and protocols and simplify the Decentralized Finance onboarding
-          process for the next billion users. Our platform has quickly reached
-          critical milestones, boasting a trading volume of millions USD and
-          attracting over 4,000 monthly active users.
-        </p>
-        */}
+
         <p className="text-start text-muted-foreground lg:px-6 mt-[15px]">
           Main Fields: Information Systems, CRM , LMC ,ERP, Booking
           System, Startups, E-commerce, Outsourcing.
