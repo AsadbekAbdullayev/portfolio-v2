@@ -17,14 +17,12 @@ export default function Nav() {
     "projects",
     "contact",
   ]);
-
   const navItems: NavItem[] = [
     { name: "About", href: "#about" },
     { name: "Experience", href: "#experience" },
     { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#contact" },
   ];
-
   const getNavItemClasses = (href: string) => {
     const isActive = activeSection === href.substring(1);
     return {
