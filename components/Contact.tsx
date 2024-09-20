@@ -1,4 +1,5 @@
 "use client";
+
 import { Mail } from "lucide-react";
 import { Button } from "./ui/button";
 export default function Contact() {
