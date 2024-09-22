@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 
 const useActiveSection = (sectionIds: string[]): string => {
   const [activeSection, setActiveSection] = useState<string>('');
-
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
