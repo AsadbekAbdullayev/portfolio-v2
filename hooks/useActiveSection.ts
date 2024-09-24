@@ -13,7 +13,6 @@ const useActiveSection = (sectionIds: string[]): string => {
       },
       { threshold: 0.7 }
     );
-
     sectionIds.forEach((sectionId) => {
       const section = document.getElementById(sectionId);
       if (section) {
