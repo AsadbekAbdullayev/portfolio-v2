@@ -19,7 +19,6 @@ const useActiveSection = (sectionIds: string[]): string => {
         observer.observe(section);
       }
     });
-
     return () => observer.disconnect();
   }, [sectionIds]);
 
