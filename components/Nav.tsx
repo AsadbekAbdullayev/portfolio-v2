@@ -9,7 +9,6 @@ type NavItem = {
   name: string;
   href: string;
 };
-
 export default function Nav() {
   const activeSection = useActiveSection([
     "about",
